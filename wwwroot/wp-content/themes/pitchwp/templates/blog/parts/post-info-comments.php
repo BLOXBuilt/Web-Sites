@@ -1,0 +1,1 @@
+<div class="post_comments_holder"><a class="post_comments" href="<?php comments_link(); ?>" target="_self"><?php comments_number('0 ' . esc_html__('Comments','pitchwp'), '1 '.esc_html__('Comment','pitchwp'), '% '.esc_html__('Comments','pitchwp') ); ?></a></div>

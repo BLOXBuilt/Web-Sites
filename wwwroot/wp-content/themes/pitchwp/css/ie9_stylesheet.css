@@ -1,0 +1,22 @@
+.carousel-inner .slider_content .text.one_by_one.from_bottom .el{
+    top: 0px !important;
+}
+
+.fade_in.popup_menu_opened .popup_menu_holder_outer {
+    visibility: visible !important;
+    opacity: 1 !important;
+}
+
+.carousel-inner .active .slider_content .from_right.one_by_one.text .q_slide_title .custom {
+    transform: scale(1) !important;
+}
+
+.carousel-inner .slider_content .text.one_by_one.from_right .q_slide_title .custom,
+.carousel-inner .slider_content .text.one_by_one.from_left .q_slide_title .custom,
+.carousel-inner .slider_content .text.one_by_one.from_top .q_slide_title .custom,
+.carousel-inner .slider_content .text.one_by_one.from_bottom .q_slide_title .custom,
+.custom_font_holder .animate.scale,
+.custom_font_holder .animate.scale.show {
+    transform: scale(1) !important;
+    -ms-transform: scale(1) !important;
+}

@@ -1,0 +1,2529 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pitch v1.2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-12-07 16:09:25+0000\n"
+"Last-Translator: admin <johndoegravatar@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:15
+#@ pitchwp
+msgid "Page you are looking is Not Found"
+msgstr ""
+
+#: 404.php:16
+#@ pitchwp
+msgid "The page you are looking for does not exist. It may have been moved, or removed altogether. Perhaps you can return back to the site's homepage and see if you can find what you are looking for."
+msgstr ""
+
+#: 404.php:17
+#@ pitchwp
+msgid "Back to homepage"
+msgstr ""
+
+#: comments.php:23
+#@ pitchwp
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:23
+#@ pitchwp
+msgid " Comments: "
+msgstr ""
+
+#: comments.php:26
+#@ pitchwp
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:50
+#@ pitchwp
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: comments.php:63
+#@ pitchwp
+msgid "Leave a Comment:"
+msgstr ""
+
+#: comments.php:64
+#, php-format
+#@ pitchwp
+msgid "Post a Reply to %s"
+msgstr ""
+
+#: comments.php:65
+#@ pitchwp
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:66
+#: woocommerce/single-product-reviews.php:64
+#@ pitchwp
+msgid "Submit"
+msgstr ""
+
+#: comments.php:67
+#@ pitchwp
+msgid "Write your comment here..."
+msgstr ""
+
+#: comments.php:71
+#@ pitchwp
+msgid "Your full name"
+msgstr ""
+
+#: comments.php:72
+#@ pitchwp
+msgid "E-mail address"
+msgstr ""
+
+#: comments.php:73
+#@ pitchwp
+msgid "Website"
+msgstr ""
+
+#: extendvc/extend-vc.php:2004
+#: extendvc/extend-vc.php:11354
+#@ pitchwp
+msgid "Insert border radius(Rounded corners) in px. For example: 4. Leave empty for default. "
+msgstr ""
+
+#: extendvc/extend-vc.php:2183
+#@ pitchwp
+msgid "Open prettyPhoto"
+msgstr ""
+
+#: extendvc/extend-vc.php:2199
+#@ pitchwp
+msgid "Elements Holder"
+msgstr ""
+
+#: extendvc/extend-vc.php:2284
+#@ pitchwp
+msgid "Elements Holder Item"
+msgstr ""
+
+#: extendvc/extend-vc.php:2505
+#@ pitchwp
+msgid "Bordered Elements Holder"
+msgstr ""
+
+#: extendvc/extend-vc.php:2583
+#: extendvc/extend-vc.php:5697
+#: includes/nav_menu/edit_custom_walker.php:207
+#: includes/plugins/class-tgm-plugin-activation.php:2438
+#@ pitchwp
+msgid "Type"
+msgstr ""
+
+#: extendvc/extend-vc.php:3765
+#@ pitchwp
+msgid "Qode Vertical Split Slider"
+msgstr ""
+
+#: extendvc/extend-vc.php:3820
+#@ pitchwp
+msgid "Left Sliding Panel"
+msgstr ""
+
+#: extendvc/extend-vc.php:3837
+#@ pitchwp
+msgid "Right Sliding Panel"
+msgstr ""
+
+#: extendvc/extend-vc.php:3854
+#: extendvc/extend-vc.php:4081
+#@ pitchwp
+msgid "Slide Content Item"
+msgstr ""
+
+#: extendvc/extend-vc.php:3927
+#@ pitchwp
+msgid "Qode Vertical Split Slider With Text Over"
+msgstr ""
+
+#: extendvc/extend-vc.php:4047
+#@ pitchwp
+msgid "Left Panel"
+msgstr ""
+
+#: extendvc/extend-vc.php:4064
+#@ pitchwp
+msgid "Right Panel"
+msgstr ""
+
+#: extendvc/extend-vc.php:6329
+#@ pitchwp
+msgid "Please insert padding in format 0px 10px 0px 10px, default value is 0 0 0 0"
+msgstr ""
+
+#: extendvc/extend-vc.php:7954
+#: extendvc/extend-vc.php:8012
+#@ pitchwp
+msgid "Please insert padding in format (top right bottom left) i.e. 5px 5px 5px 5px"
+msgstr ""
+
+#: extendvc/extend-vc.php:7963
+#@ pitchwp
+msgid "Please insert margin in format (top right bottom left) i.e. 5px 5px 5px 5px"
+msgstr ""
+
+#: extendvc/extend-vc.php:8044
+#@ pitchwp
+msgid "Insert a number"
+msgstr ""
+
+#: extendvc/extend-vc.php:8053
+#@ pitchwp
+msgid "Insert title"
+msgstr ""
+
+#: extendvc/extend-vc.php:8062
+#@ pitchwp
+msgid "Insert subtitle"
+msgstr ""
+
+#: extendvc/extend-vc.php:8084
+#@ pitchwp
+msgid "Insert transition delay in seconds"
+msgstr ""
+
+#: extendvc/extend-vc.php:8352
+#@ pitchwp
+msgid "Please insert margin in format: 0px 0px 1px 0px"
+msgstr ""
+
+#: extendvc/extend-vc.php:8368
+#: extendvc/extend-vc.php:10577
+#@ pitchwp
+msgid "Please insert border radius(Rounded corners) in px. For example: 4 "
+msgstr ""
+
+#: extendvc/extend-vc.php:13057
+#@ pitchwp
+msgid "Qode Tabs"
+msgstr ""
+
+#: extendvc/extend-vc.php:13221
+#@ pitchwp
+msgid "Qode Tab"
+msgstr ""
+
+#: extendvc/extend-vc.php:13256
+#@ pitchwp
+msgid "Qode Accordion"
+msgstr ""
+
+#: extendvc/extend-vc.php:13267
+#@ pitchwp
+msgid "Active section"
+msgstr ""
+
+#: extendvc/extend-vc.php:13270
+#@ pitchwp
+msgid "Enter section number to be active on load or enter \"false\" to collapse all sections."
+msgstr ""
+
+#: extendvc/extend-vc.php:13274
+#@ pitchwp
+msgid "Allow collapse all sections?"
+msgstr ""
+
+#: extendvc/extend-vc.php:13276
+#@ pitchwp
+msgid "If checked, it is allowed to collapse all sections."
+msgstr ""
+
+#: extendvc/extend-vc.php:13277
+#: widgets/qode-call-to-action-widget.php:119
+#: widgets/qode-call-to-action-widget.php:127
+#: widgets/qode-call-to-action-widget.php:227
+#@ pitchwp
+msgid "Yes"
+msgstr ""
+
+#: extendvc/extend-vc.php:13281
+#@ pitchwp
+msgid "Extra class name"
+msgstr ""
+
+#: extendvc/extend-vc.php:13283
+#@ pitchwp
+msgid "Style particular content element differently - add a class name and refer to it in custom CSS."
+msgstr ""
+
+#: extendvc/extend-vc.php:13371
+#@ pitchwp
+msgid "Qode Accordion Tab"
+msgstr ""
+
+#: extendvc/extend-vc.php:13384
+#: vc_templates/vc_text_separator.php:4
+#@ pitchwp
+msgid "Title"
+msgstr ""
+
+#: extendvc/extend-vc.php:13387
+#@ pitchwp
+msgid "Section"
+msgstr ""
+
+#: extendvc/extend-vc.php:13388
+#@ pitchwp
+msgid "Enter accordion section title."
+msgstr ""
+
+#: extendvc/extend-vc.php:13392
+#@ pitchwp
+msgid "Section ID"
+msgstr ""
+
+#: extendvc/extend-vc.php:13394
+#, php-format
+#@ pitchwp
+msgid "Enter optional row ID. Make sure it is unique, and it is valid as w3c specification: %s (Must not have spaces)"
+msgstr ""
+
+#: extendvc/extend-vc.php:13394
+#@ pitchwp
+msgid "link"
+msgstr ""
+
+#: framework/admin/skins/select/templates/anchors-save.php:18
+#: framework/admin/skins/select/templates/header.php:10
+#@ pitchwp
+msgid "Save Changes"
+msgstr ""
+
+#: framework/admin/skins/select/templates/content-import.php:98
+#@ pitchwp
+msgid "The import process may take some time. Please be patient."
+msgstr ""
+
+#: framework/admin/skins/select/templates/content-import.php:117
+#@ pitchwp
+msgid "Important notes:"
+msgstr ""
+
+#: framework/admin/skins/select/templates/content-import.php:119
+#@ pitchwp
+msgid "Please note that import process will take time needed to download all attachments from demo web site."
+msgstr ""
+
+#: framework/admin/skins/select/templates/content-import.php:120
+#@ pitchwp
+msgid "If you plan to use shop, please install WooCommerce before you run import."
+msgstr ""
+
+#: framework/lib/qode.functions.php:541
+#@ pitchwp
+msgid ""
+"Note that writing permissions aren't set for folders containing css and js files on your server.\n"
+"\t\t\t\t\tWe recommend setting writing permissions in order to optimize your site performance.\n"
+"\t\t\t\t\tFor further instructions, please refer to our documentation."
+msgstr ""
+
+#: framework/lib/qode.functions.php:656
+#@ pitchwp
+msgid ""
+"Installation of the \"Qode Core\" plugin is essential for proper\n"
+"            theme functioning. Please"
+msgstr ""
+
+#: framework/lib/qode.functions.php:657
+#@ pitchwp
+msgid "install"
+msgstr ""
+
+#: framework/lib/qode.functions.php:657
+#@ pitchwp
+msgid ""
+"this\n"
+"            plugin and activate it"
+msgstr ""
+
+#: framework/qode-framework.php:531
+#: includes/plugins/class-tgm-plugin-activation.php:404
+#@ pitchwp
+msgid "Dismiss this notice"
+msgstr ""
+
+#: functions.php:535
+#@ pitchwp
+msgid "Top Navigation"
+msgstr ""
+
+#: functions.php:543
+#@ pitchwp
+msgid "Fullscreen Navigation"
+msgstr ""
+
+#: functions.php:551
+#@ pitchwp
+msgid "Left Top Navigation"
+msgstr ""
+
+#: functions.php:557
+#@ pitchwp
+msgid "Right Top Navigation"
+msgstr ""
+
+#: functions.php:1973
+#@ pitchwp
+msgid "Facebook"
+msgstr ""
+
+#: functions.php:1974
+#@ pitchwp
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:1975
+#@ pitchwp
+msgid "Instagram"
+msgstr ""
+
+#: functions.php:1976
+#@ pitchwp
+msgid "Dribbble"
+msgstr ""
+
+#: functions.php:1977
+#@ pitchwp
+msgid "LinkedIn"
+msgstr ""
+
+#: header.php:147
+#: header.php:170
+#: header.php:194
+#: header.php:244
+#: header.php:371
+#: header.php:412
+#: header.php:451
+#: header.php:499
+#: header.php:566
+#: header.php:664
+#: header.php:830
+#: header.php:850
+#: header.php:895
+#: header.php:961
+#: header.php:997
+#: header.php:1018
+#: header.php:1042
+#: header.php:1084
+#: header.php:1154
+#: searchform.php:3
+#@ pitchwp
+msgid "Search"
+msgstr ""
+
+#: header.php:1374
+#@ pitchwp
+msgid "Search:"
+msgstr ""
+
+#: includes/comment/comment.php:40
+#@ pitchwp
+msgid "Pingback:"
+msgstr ""
+
+#: includes/comment/comment.php:55
+#@ pitchwp
+msgid "at"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: includes/nav_menu/edit_custom_walker.php:79
+#, php-format
+#@ pitchwp
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: includes/nav_menu/edit_custom_walker.php:83
+#, php-format
+#@ pitchwp
+msgid "%s (Pending)"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:108
+#@ pitchwp
+msgid "Move up"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:121
+#@ pitchwp
+msgid "Move down"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:123
+#: includes/nav_menu/edit_custom_walker.php:125
+#@ pitchwp
+msgid "Edit Menu Item"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:134
+#@ pitchwp
+msgid "URL"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:141
+#@ pitchwp
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:147
+#@ pitchwp
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:154
+#@ pitchwp
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:159
+#@ pitchwp
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:165
+#@ pitchwp
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:171
+#@ pitchwp
+msgid "Description"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:173
+#@ pitchwp
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:181
+#@ pitchwp
+msgid "Anchor"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:192
+#@ pitchwp
+msgid "Don't link"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:202
+#@ pitchwp
+msgid "Don't show"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:217
+#@ pitchwp
+msgid "Wide menu position"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:227
+#@ pitchwp
+msgid "Background image"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:241
+#@ pitchwp
+msgid "Icon Pack"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:247
+#@ pitchwp
+msgid "Only with \"default\" & \"wide with icons\" menu types"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:258
+#@ pitchwp
+msgid "Icon"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:279
+#@ pitchwp
+msgid "Custom widget area"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:290
+#@ pitchwp
+msgid "Only with \"wide & wide with icons\" menu type"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:299
+#, php-format
+#@ pitchwp
+msgid "Original: %s"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:312
+#@ pitchwp
+msgid "Remove"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:313
+#: woocommerce/myaccount/my-orders.php:75
+#@ pitchwp
+msgid "Cancel"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:333
+#: includes/plugins/layer-slider.php:55
+#: includes/plugins/qode-core.php:53
+#: includes/plugins/qode-twitter-feed.php:52
+#: includes/plugins/visual-composer.php:52
+#@ pitchwp
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:334
+#: includes/plugins/layer-slider.php:56
+#: includes/plugins/qode-core.php:54
+#: includes/plugins/qode-twitter-feed.php:53
+#: includes/plugins/visual-composer.php:53
+#@ pitchwp
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:335
+#: includes/plugins/layer-slider.php:57
+#: includes/plugins/qode-core.php:55
+#: includes/plugins/qode-twitter-feed.php:54
+#: includes/plugins/visual-composer.php:54
+#, php-format
+#@ pitchwp
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:336
+#: includes/plugins/layer-slider.php:58
+#: includes/plugins/qode-core.php:56
+#: includes/plugins/qode-twitter-feed.php:55
+#: includes/plugins/visual-composer.php:55
+#@ pitchwp
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:338
+#: includes/plugins/layer-slider.php:59
+#: includes/plugins/qode-core.php:57
+#: includes/plugins/qode-twitter-feed.php:56
+#: includes/plugins/visual-composer.php:56
+#, php-format
+#@ pitchwp
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:343
+#: includes/plugins/layer-slider.php:60
+#: includes/plugins/qode-core.php:58
+#: includes/plugins/qode-twitter-feed.php:57
+#: includes/plugins/visual-composer.php:57
+#, php-format
+#@ pitchwp
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:348
+#, php-format
+#@ pitchwp
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:353
+#: includes/plugins/layer-slider.php:65
+#: includes/plugins/qode-core.php:63
+#: includes/plugins/qode-twitter-feed.php:62
+#: includes/plugins/visual-composer.php:62
+#, php-format
+#@ pitchwp
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:358
+#, php-format
+#@ pitchwp
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:363
+#, php-format
+#@ pitchwp
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:368
+#: includes/plugins/layer-slider.php:62
+#: includes/plugins/qode-core.php:60
+#: includes/plugins/qode-twitter-feed.php:59
+#: includes/plugins/visual-composer.php:59
+#, php-format
+#@ pitchwp
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:373
+#: includes/plugins/layer-slider.php:63
+#: includes/plugins/qode-core.php:61
+#: includes/plugins/qode-twitter-feed.php:60
+#: includes/plugins/visual-composer.php:60
+#, php-format
+#@ pitchwp
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:378
+#, php-format
+#@ pitchwp
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:383
+#: includes/plugins/layer-slider.php:67
+#: includes/plugins/qode-core.php:65
+#: includes/plugins/qode-twitter-feed.php:64
+#: includes/plugins/visual-composer.php:64
+#@ pitchwp
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:388
+#@ pitchwp
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:393
+#@ pitchwp
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:397
+#: includes/plugins/layer-slider.php:69
+#: includes/plugins/qode-core.php:67
+#: includes/plugins/qode-twitter-feed.php:66
+#: includes/plugins/visual-composer.php:66
+#@ pitchwp
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:398
+#@ pitchwp
+msgid "Return to the dashboard"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:399
+#: includes/plugins/class-tgm-plugin-activation.php:3029
+#: includes/plugins/layer-slider.php:70
+#: includes/plugins/qode-core.php:68
+#: includes/plugins/qode-twitter-feed.php:67
+#: includes/plugins/visual-composer.php:67
+#@ pitchwp
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+#@ pitchwp
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:402
+#, php-format
+#@ pitchwp
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:403
+#, php-format
+#@ pitchwp
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:405
+#@ pitchwp
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:520
+#@ pitchwp
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:521
+#@ pitchwp
+msgid "Update Required"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:635
+#@ pitchwp
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:828
+#: includes/plugins/class-tgm-plugin-activation.php:3438
+#@ pitchwp
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:935
+#@ pitchwp
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:935
+#: includes/plugins/class-tgm-plugin-activation.php:938
+#@ pitchwp
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:938
+#@ pitchwp
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1116
+#: includes/plugins/class-tgm-plugin-activation.php:2828
+#@ pitchwp
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1881
+#, php-format
+#@ pitchwp
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2167
+#@ pitchwp
+msgid "Required"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2170
+#@ pitchwp
+msgid "Recommended"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2186
+#@ pitchwp
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2189
+#@ pitchwp
+msgid "External Source"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2192
+#@ pitchwp
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2209
+#@ pitchwp
+msgid "Not Installed"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2213
+#@ pitchwp
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2215
+#@ pitchwp
+msgid "Active"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2221
+#@ pitchwp
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2224
+#@ pitchwp
+msgid "Requires Update"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2227
+#@ pitchwp
+msgid "Update recommended"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2235
+#, php-format
+#@ pitchwp
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2280
+#, php-format
+#@ pitchwp
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2283
+#, php-format
+#@ pitchwp
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2286
+#, php-format
+#@ pitchwp
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2289
+#, php-format
+#@ pitchwp
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2371
+#@ pitchwp
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2379
+#@ pitchwp
+msgid "Installed version:"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2387
+#@ pitchwp
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2399
+#@ pitchwp
+msgid "Available version:"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2422
+#, php-format
+#@ pitchwp
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2436
+#@ pitchwp
+msgid "Plugin"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2437
+#@ pitchwp
+msgid "Source"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2442
+#@ pitchwp
+msgid "Version"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2443
+#: woocommerce/myaccount/my-orders.php:34
+#: woocommerce/myaccount/my-orders.php:55
+#@ pitchwp
+msgid "Status"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2491
+#, php-format
+#@ pitchwp
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2495
+#, php-format
+#@ pitchwp
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2500
+#, php-format
+#@ pitchwp
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2570
+#@ pitchwp
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2603
+#@ pitchwp
+msgid "Install"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2609
+#@ pitchwp
+msgid "Update"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2612
+#@ pitchwp
+msgid "Activate"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2643
+#@ pitchwp
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2645
+#@ pitchwp
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2681
+#@ pitchwp
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2683
+#@ pitchwp
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2788
+#@ pitchwp
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2814
+#@ pitchwp
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: includes/plugins/class-tgm-plugin-activation.php:2832
+#: includes/plugins/class-tgm-plugin-activation.php:400
+#@ pitchwp
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3028
+#@ pitchwp
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3362
+#, php-format
+#@ pitchwp
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3364
+#, php-format
+#@ pitchwp
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3365
+#, php-format
+#@ pitchwp
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3369
+#@ pitchwp
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3370
+#, php-format
+#@ pitchwp
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3370
+#: includes/plugins/class-tgm-plugin-activation.php:3376
+#@ pitchwp
+msgid "Show Details"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3370
+#: includes/plugins/class-tgm-plugin-activation.php:3376
+#@ pitchwp
+msgid "Hide Details"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3371
+#@ pitchwp
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3372
+#, php-format
+#@ pitchwp
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3375
+#@ pitchwp
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3376
+#, php-format
+#@ pitchwp
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3377
+#@ pitchwp
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3378
+#, php-format
+#@ pitchwp
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/plugins/layer-slider.php:61
+#: includes/plugins/qode-core.php:59
+#: includes/plugins/qode-twitter-feed.php:58
+#: includes/plugins/visual-composer.php:58
+#, php-format
+#@ pitchwp
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/layer-slider.php:64
+#: includes/plugins/qode-core.php:62
+#: includes/plugins/qode-twitter-feed.php:61
+#: includes/plugins/visual-composer.php:61
+#, php-format
+#@ pitchwp
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/layer-slider.php:66
+#: includes/plugins/qode-core.php:64
+#: includes/plugins/qode-twitter-feed.php:63
+#: includes/plugins/visual-composer.php:63
+#, php-format
+#@ pitchwp
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/layer-slider.php:68
+#: includes/plugins/qode-core.php:66
+#: includes/plugins/qode-twitter-feed.php:65
+#: includes/plugins/visual-composer.php:65
+#@ pitchwp
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/layer-slider.php:71
+#: includes/plugins/qode-core.php:69
+#: includes/plugins/qode-twitter-feed.php:68
+#: includes/plugins/visual-composer.php:68
+#, php-format
+#@ pitchwp
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/qode-blog-functions.php:98
+#: templates/blog/blog_standard_info_on_side-loop.php:172
+#: templates/blog/blog_standard_info_on_side-loop.php:286
+#: templates/blog/blog_standard_info_on_side-loop.php:421
+#: templates/blog/blog_standard_info_on_side-loop.php:571
+#: templates/blog/blog_standard_whole_post-loop.php:162
+#: templates/blog/blog_standard_whole_post-loop.php:222
+#: templates/blog/blog_standard_whole_post-loop.php:302
+#: templates/blog/blog_standard_whole_post-loop.php:397
+#@ pitchwp
+msgid "Continue Reading"
+msgstr ""
+
+#: includes/qode-blog-functions.php:232
+#@ pitchwp
+msgid "Continue reading"
+msgstr ""
+
+#: includes/qode-breadcrumbs.php:132
+#@ pitchwp
+msgid "Page"
+msgstr ""
+
+#: includes/qode-like.php:80
+#: includes/qode-like.php:98
+#@ pitchwp
+msgid "Like"
+msgstr ""
+
+#: includes/qode-like.php:80
+#: includes/qode-like.php:98
+#@ pitchwp
+msgid "!"
+msgstr ""
+
+#: includes/qode-like.php:117
+#: includes/qode-like.php:129
+#: includes/qode-like.php:141
+#@ pitchwp
+msgid "Like this"
+msgstr ""
+
+#: includes/qode-like.php:120
+#@ pitchwp
+msgid "You already liked this!"
+msgstr ""
+
+#: includes/qode-like.php:132
+#: includes/qode-like.php:144
+#@ pitchwp
+msgid "You already like this!"
+msgstr ""
+
+#: includes/sidebar/qode-custom-sidebar.php:18
+#@ pitchwp
+msgid "Custom Widget Area"
+msgstr ""
+
+#: includes/sidebar/qode-custom-sidebar.php:42
+#@ pitchwp
+msgid "Enter Name of the new Widget Area"
+msgstr ""
+
+#: includes/sidebar/qode-custom-sidebar.php:43
+#@ pitchwp
+msgid "Add Widget Area"
+msgstr ""
+
+#: js/default_dynamic.php:117
+#@ pitchwp
+msgid "Loading new posts..."
+msgstr ""
+
+#: js/default_dynamic.php:119
+#@ pitchwp
+msgid "No more posts"
+msgstr ""
+
+#: js/default_dynamic.php:154
+#@ pitchwp
+msgid "Logout"
+msgstr ""
+
+#: login.php:92
+#: login.php:159
+#: login.php:233
+#: woocommerce/myaccount/form-login.php:71
+#@ pitchwp
+msgid "Username"
+msgstr ""
+
+#: login.php:96
+#: login.php:163
+#: login.php:237
+#: woocommerce/global/form-login.php:31
+#: woocommerce/myaccount/form-login.php:38
+#: woocommerce/myaccount/form-login.php:83
+#@ pitchwp
+msgid "Password"
+msgstr ""
+
+#: login.php:99
+#: login.php:166
+#: login.php:240
+#@ pitchwp
+msgid "Log in"
+msgstr ""
+
+#: login.php:106
+#: login.php:173
+#: login.php:247
+#: woocommerce/global/form-login.php:43
+#: woocommerce/myaccount/form-login.php:48
+#@ pitchwp
+msgid "Remember me"
+msgstr ""
+
+#: login.php:148
+#: login.php:222
+#@ pitchwp
+msgid "Log in to your account"
+msgstr ""
+
+#: login.php:151
+#: login.php:225
+#@ pitchwp
+msgid "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat"
+msgstr ""
+
+#: search.php:47
+#: search.php:66
+#: search.php:94
+#: templates/blog/blog-structure.php:211
+#@ pitchwp
+msgid "No posts were found."
+msgstr ""
+
+#: templates/blog/blog-structure.php:219
+#: templates/blog/blog-structure.php:223
+#@ pitchwp
+msgid "Show more"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:6643
+#: includes/shortcodes/shortcodes.php:8701
+#: includes/shortcodes/shortcodes.php:8759
+#: templates/blog/blog_masonry-loop.php:117
+#: templates/blog/blog_masonry-loop.php:167
+#: templates/blog/blog_masonry-loop.php:227
+#: templates/blog/blog_masonry-loop.php:295
+#@ pitchwp
+msgid "Read More"
+msgstr ""
+
+#: templates/blog/blog_masonry-loop.php:149
+#: templates/blog/blog_single/blog_standard_type_single-loop.php:177
+#: templates/blog/blog_standard-loop.php:195
+#: templates/blog/blog_standard_info_on_side-loop.php:208
+#: templates/blog/blog_standard_whole_post-loop.php:191
+#@ pitchwp
+msgid "Your browser don't support audio player"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:4552
+#: templates/blog/blog_search-loop.php:27
+#@ pitchwp
+msgid "In"
+msgstr ""
+
+#: templates/blog/blog_search-loop.php:33
+#: templates/blog/parts/post-info-author.php:1
+#@ pitchwp
+msgid "By"
+msgstr ""
+
+#: templates/blog/blog_single/blog_standard_type_single-loop.php:141
+#: templates/blog/blog_single/blog_standard_type_single-loop.php:198
+#: templates/blog/blog_single/blog_standard_type_single-loop.php:238
+#: templates/blog/blog_single/blog_standard_type_single-loop.php:280
+#: templates/blog/blog_single/blog_standard_type_single-loop.php:322
+#: templates/blog/blog_single/blog_standard_type_single-loop.php:373
+#: templates/blog/blog_standard-loop.php:157
+#: templates/blog/blog_standard-loop.php:219
+#: templates/blog/blog_standard-loop.php:256
+#: templates/blog/blog_standard-loop.php:302
+#: templates/blog/blog_standard-loop.php:342
+#: templates/blog/blog_standard-loop.php:401
+#: templates/blog/blog_standard_info_on_side-loop.php:102
+#: templates/blog/blog_standard_info_on_side-loop.php:159
+#: templates/blog/blog_standard_info_on_side-loop.php:216
+#: templates/blog/blog_standard_info_on_side-loop.php:273
+#: templates/blog/blog_standard_info_on_side-loop.php:315
+#: templates/blog/blog_standard_info_on_side-loop.php:351
+#: templates/blog/blog_standard_info_on_side-loop.php:408
+#: templates/blog/blog_standard_info_on_side-loop.php:453
+#: templates/blog/blog_standard_info_on_side-loop.php:501
+#: templates/blog/blog_standard_info_on_side-loop.php:558
+#: templates/blog/blog_standard_whole_post-loop.php:150
+#: templates/blog/blog_standard_whole_post-loop.php:210
+#: templates/blog/blog_standard_whole_post-loop.php:250
+#: templates/blog/blog_standard_whole_post-loop.php:290
+#: templates/blog/blog_standard_whole_post-loop.php:333
+#: templates/blog/blog_standard_whole_post-loop.php:385
+#: templates/portfolio/portfolio-central.php:160
+#@ pitchwp
+msgid "Share:"
+msgstr ""
+
+#: templates/blog/blog_single-loop.php:61
+#: templates/blog/blog_standard_info_on_side-loop.php:144
+#: templates/blog/blog_standard_info_on_side-loop.php:258
+#: templates/blog/blog_standard_info_on_side-loop.php:393
+#: templates/blog/blog_standard_info_on_side-loop.php:543
+#: templates/portfolio/parts/portfolio-tags.php:38
+#@ pitchwp
+msgid "Tags:"
+msgstr ""
+
+#: templates/blog/blog_single-loop.php:97
+#@ pitchwp
+msgid "About the author"
+msgstr ""
+
+#: templates/blog/blog_standard_info_on_side-loop.php:108
+#: templates/blog/blog_standard_info_on_side-loop.php:222
+#: templates/blog/blog_standard_info_on_side-loop.php:357
+#: templates/blog/blog_standard_info_on_side-loop.php:507
+#@ pitchwp
+msgid "Written by:"
+msgstr ""
+
+#: templates/blog/blog_standard_info_on_side-loop.php:121
+#: templates/blog/blog_standard_info_on_side-loop.php:235
+#: templates/blog/blog_standard_info_on_side-loop.php:370
+#: templates/blog/blog_standard_info_on_side-loop.php:520
+#: templates/portfolio/parts/portfolio-date.php:38
+#: woocommerce/checkout/thankyou.php:44
+#@ pitchwp
+msgid "Date:"
+msgstr ""
+
+#: templates/blog/blog_standard_info_on_side-loop.php:129
+#: templates/blog/blog_standard_info_on_side-loop.php:243
+#: templates/blog/blog_standard_info_on_side-loop.php:378
+#: templates/blog/blog_standard_info_on_side-loop.php:528
+#@ pitchwp
+msgid "Categories:"
+msgstr ""
+
+#: templates/blog/blog_standard_info_on_side-loop.php:137
+#: templates/blog/blog_standard_info_on_side-loop.php:251
+#: templates/blog/blog_standard_info_on_side-loop.php:386
+#: templates/blog/blog_standard_info_on_side-loop.php:536
+#@ pitchwp
+msgid "Comments:"
+msgstr ""
+
+#: templates/blog/masonry-filter.php:58
+#@ pitchwp
+msgid "Sort Blog:"
+msgstr ""
+
+#: templates/blog/masonry-filter.php:60
+#@ pitchwp
+msgid "All"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:3984
+#: includes/shortcodes/shortcodes.php:4330
+#: templates/blog/parts/post-info-category.php:1
+#@ pitchwp
+msgid "In "
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:3774
+#: includes/shortcodes/shortcodes.php:3832
+#: includes/shortcodes/shortcodes.php:3970
+#: includes/shortcodes/shortcodes.php:4095
+#: includes/shortcodes/shortcodes.php:4207
+#: includes/shortcodes/shortcodes.php:4309
+#: includes/shortcodes/shortcodes.php:4491
+#: includes/shortcodes/shortcodes.php:4593
+#: includes/shortcodes/shortcodes.php:8684
+#: includes/shortcodes/shortcodes.php:8739
+#: templates/blog/parts/post-info-comments.php:1
+#@ pitchwp
+msgid "Comments"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:3771
+#: includes/shortcodes/shortcodes.php:3829
+#: includes/shortcodes/shortcodes.php:3967
+#: includes/shortcodes/shortcodes.php:4092
+#: includes/shortcodes/shortcodes.php:4204
+#: includes/shortcodes/shortcodes.php:4306
+#: includes/shortcodes/shortcodes.php:4488
+#: includes/shortcodes/shortcodes.php:4590
+#: includes/shortcodes/shortcodes.php:8681
+#: includes/shortcodes/shortcodes.php:8736
+#: templates/blog/parts/post-info-comments.php:1
+#@ pitchwp
+msgid "Comment"
+msgstr ""
+
+#: templates/portfolio/parts/portfolio-related-projects.php:38
+#@ pitchwp
+msgid "Related Projects:"
+msgstr ""
+
+#: templates/portfolio/parts/portfolio-related-projects.php:105
+#: templates/portfolio/parts/portfolio-related-projects.php:114
+#@ pitchwp
+msgid "No related posts found"
+msgstr ""
+
+#: title.php:570
+#@ pitchwp
+msgid "Author:"
+msgstr ""
+
+#: title.php:576
+#@ pitchwp
+msgid "Results for"
+msgstr ""
+
+#: title.php:581
+#@ pitchwp
+msgid "404 - Page not found"
+msgstr ""
+
+#: title.php:594
+#@ pitchwp
+msgid "Archive"
+msgstr ""
+
+#: vc_templates/no_accordion_tab.php:6
+#: vc_templates/vc_accordion_tab.php:5
+#@ pitchwp
+msgid "Accordion Title"
+msgstr ""
+
+#: vc_templates/no_accordion_tab.php:106
+#: vc_templates/no_tab.php:35
+#: vc_templates/vc_accordion_tab.php:82
+#: vc_templates/vc_tab.php:35
+#@ pitchwp
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: vc_templates/no_pricing_list_item.php:199
+#@ pitchwp
+msgid "NEW"
+msgstr ""
+
+#: vc_templates/no_tabs.php:233
+#: vc_templates/vc_tabs.php:233
+#@ pitchwp
+msgid "Previous slide"
+msgstr ""
+
+#: vc_templates/no_tabs.php:233
+#: vc_templates/vc_tabs.php:233
+#@ pitchwp
+msgid "Next slide"
+msgstr ""
+
+#: vc_templates/vc_flickr.php:24
+#@ pitchwp
+msgid "View stream on flickr"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:8
+#@ pitchwp
+msgid "Select Call to Action Widget"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:117
+#@ pitchwp
+msgid "Full Width:"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:120
+#: widgets/qode-call-to-action-widget.php:128
+#: widgets/qode-call-to-action-widget.php:228
+#@ pitchwp
+msgid "No"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:125
+#@ pitchwp
+msgid "Content In Grid:"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:133
+#@ pitchwp
+msgid "Grid Size:"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:135
+#@ pitchwp
+msgid "75/25"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:136
+#@ pitchwp
+msgid "50/50"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:137
+#@ pitchwp
+msgid "66"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:142
+#@ pitchwp
+msgid "Type:"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:144
+#@ pitchwp
+msgid "Normal"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:145
+#@ pitchwp
+msgid "With Icon"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:146
+#@ pitchwp
+msgid "With Custom Icon"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:153
+#@ pitchwp
+msgid "Icon Pack:"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:173
+#@ pitchwp
+msgid "Icon:"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:185
+#@ pitchwp
+msgid "Icon Position:"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:187
+#@ pitchwp
+msgid "Default/Top"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:188
+#@ pitchwp
+msgid "Middle"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:189
+#@ pitchwp
+msgid "Bottom"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:194
+#@ pitchwp
+msgid "Icon Color:"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:200
+#@ pitchwp
+msgid "Custom Icon:"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:205
+#@ pitchwp
+msgid "Icon Size:"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:210
+#@ pitchwp
+msgid "Background Color:"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:215
+#@ pitchwp
+msgid "Border Color:"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:220
+#@ pitchwp
+msgid "Box padding (top right bottom left) px"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:225
+#@ pitchwp
+msgid "Show Button:"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:233
+#@ pitchwp
+msgid "Button position:"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:235
+#@ pitchwp
+msgid "Right"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:236
+#@ pitchwp
+msgid "Center"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:237
+#@ pitchwp
+msgid "Left"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:247
+#@ pitchwp
+msgid "Button Text:"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:252
+#@ pitchwp
+msgid "Button Link:"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:257
+#@ pitchwp
+msgid "Button Target:"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:267
+#@ pitchwp
+msgid "Button Text Color:"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:272
+#@ pitchwp
+msgid "Button Hover Text Color:"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:277
+#@ pitchwp
+msgid "Button Background Color:"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:282
+#@ pitchwp
+msgid "Button Hover Background Color:"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:287
+#@ pitchwp
+msgid "Button Border Color:"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:292
+#@ pitchwp
+msgid "Button Hover Border Color:"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:297
+#@ pitchwp
+msgid "Button Border Width"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:303
+#@ pitchwp
+msgid "Button Radius"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:308
+#@ pitchwp
+msgid "Text:"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:313
+#@ pitchwp
+msgid "Text Color:"
+msgstr ""
+
+#: widgets/qode-call-to-action-widget.php:318
+#@ pitchwp
+msgid "Text Size:"
+msgstr ""
+
+#: widgets/qode-instagram-widget.php:10
+#@ pitchwp
+msgid "Display instagram images"
+msgstr ""
+
+#: widgets/qode-latest-posts-menu-widget.php:9
+#@ pitchwp
+msgid "Display posts from your blog, for use in dropdown menus"
+msgstr ""
+
+#: widgets/qode-latest-posts-menu-widget.php:106
+#@ pitchwp
+msgid "Posted in"
+msgstr ""
+
+#: widgets/qode-latest-posts-menu-widget.php:107
+#@ pitchwp
+msgid " by"
+msgstr ""
+
+#: widgets/qode-latest-posts-widget.php:9
+#@ pitchwp
+msgid "Display posts from your blog"
+msgstr ""
+
+#: widgets/qode-sticky-sidebar.php:8
+#@ pitchwp
+msgid "Use this widget to make the sidebar sticky. Drag it into the sidebar above the widget which you want to be the first element in the sticky sidebar."
+msgstr ""
+
+#: widgets/qode-woocommerce-dropdown-cart.php:8
+#@ pitchwp
+msgid "Select Woocommerce Dropdown Cart"
+msgstr ""
+
+#: widgets/qode-woocommerce-dropdown-cart.php:42
+#: widgets/qode-woocommerce-dropdown-cart.php:47
+#: widgets/qode-woocommerce-dropdown-cart.php:185
+#: widgets/qode-woocommerce-dropdown-cart.php:190
+#@ pitchwp
+msgid "Cart"
+msgstr ""
+
+#: widgets/qode-woocommerce-dropdown-cart.php:96
+#: widgets/qode-woocommerce-dropdown-cart.php:236
+#@ pitchwp
+msgid "Quantity: "
+msgstr ""
+
+#: widgets/qode-woocommerce-dropdown-cart.php:100
+#: widgets/qode-woocommerce-dropdown-cart.php:241
+#: woocommerce/cart/cart.php:50
+#@ pitchwp
+msgid "Remove this item"
+msgstr ""
+
+#: widgets/qode-woocommerce-dropdown-cart.php:109
+#: widgets/qode-woocommerce-dropdown-cart.php:250
+#: woocommerce/cart/cart.php:30
+#: woocommerce/myaccount/my-orders.php:35
+#: woocommerce/myaccount/my-orders.php:58
+#@ pitchwp
+msgid "Total"
+msgstr ""
+
+#: widgets/qode-woocommerce-dropdown-cart.php:120
+#: widgets/qode-woocommerce-dropdown-cart.php:261
+#@ pitchwp
+msgid "Shopping Bag"
+msgstr ""
+
+#: widgets/qode-woocommerce-dropdown-cart.php:121
+#: widgets/qode-woocommerce-dropdown-cart.php:262
+#@ pitchwp
+msgid "Checkout"
+msgstr ""
+
+#: widgets/qode-woocommerce-dropdown-cart.php:126
+#: widgets/qode-woocommerce-dropdown-cart.php:267
+#@ pitchwp
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:19
+#@ pitchwp
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:23
+#@ pitchwp
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:20
+#, php-format
+#@ pitchwp
+msgid "Shipping #%d"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:22
+#@ pitchwp
+msgid "Shipping and Handling"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:59
+#@ pitchwp
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:63
+#@ pitchwp
+msgid "Please continue to the checkout and enter your full address to see if there are any available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:67
+#@ pitchwp
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:76
+#: woocommerce/cart/cart-shipping.php:82
+#@ pitchwp
+msgid "There don&lsquo;t seem to be available shipping methods. Please double check your address, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:97
+#: woocommerce/cart/cart-totals.php:46
+#@ pitchwp
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:19
+#@ pitchwp
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:24
+#@ pitchwp
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:78
+#@ pitchwp
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:90
+#, php-format
+#@ pitchwp
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:93
+#, php-format
+#@ pitchwp
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:27
+#@ pitchwp
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+#@ pitchwp
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+#@ pitchwp
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:92
+#@ pitchwp
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:138
+#@ pitchwp
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:138
+#@ pitchwp
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:138
+#: woocommerce/checkout/form-coupon.php:26
+#@ pitchwp
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:147
+#@ pitchwp
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:24
+#@ pitchwp
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:30
+#@ pitchwp
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:47
+#: woocommerce/cart/shipping-calculator.php:53
+#: woocommerce/cart/shipping-calculator.php:65
+#@ pitchwp
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:54
+#@ pitchwp
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:74
+#@ pitchwp
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:82
+#@ pitchwp
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:87
+#@ pitchwp
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:18
+#@ pitchwp
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:18
+#@ pitchwp
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:25
+#@ pitchwp
+msgid "Enter coupon code"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:18
+#@ pitchwp
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:22
+#@ pitchwp
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:24
+#@ pitchwp
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:28
+#: woocommerce/myaccount/my-orders.php:68
+#@ pitchwp
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+#@ pitchwp
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36
+#: woocommerce/checkout/thankyou.php:77
+#@ pitchwp
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:40
+#@ pitchwp
+msgid "Order:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:48
+#@ pitchwp
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:61
+#@ pitchwp
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/global/form-login.php:28
+#: woocommerce/myaccount/form-login.php:35
+#: woocommerce/myaccount/form-lost-password.php:24
+#@ pitchwp
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:39
+#: woocommerce/myaccount/form-login.php:28
+#: woocommerce/myaccount/form-login.php:45
+#@ pitchwp
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:40
+#@ pitchwp
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:17
+#@ pitchwp
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:26
+#@ pitchwp
+msgid "Out of stock"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:53
+#@ pitchwp
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:30
+#@ pitchwp
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:32
+#, php-format
+#@ pitchwp
+msgid "Showing all %d results"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:34
+#, php-format
+#@ pitchwp
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "%1$d &ndash; %2$d of %3$d results"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:19
+#: woocommerce/single-product/sale-flash.php:16
+#@ pitchwp
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:20
+#: woocommerce/myaccount/form-lost-password.php:31
+#: woocommerce/myaccount/form-lost-password.php:32
+#@ pitchwp
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:21
+#: woocommerce/myaccount/form-lost-password.php:35
+#: woocommerce/myaccount/form-lost-password.php:36
+#@ pitchwp
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:25
+#: woocommerce/myaccount/form-lost-password.php:48
+#@ pitchwp
+msgid "Save"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:46
+#@ pitchwp
+msgid "Lost password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:62
+#: woocommerce/myaccount/form-login.php:96
+#@ pitchwp
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:77
+#: woocommerce/single-product-reviews.php:61
+#: woocommerce/woocommerce_configuration.php:99
+#@ pitchwp
+msgid "Email"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:89
+#@ pitchwp
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:22
+#@ pitchwp
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:28
+#@ pitchwp
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:48
+#@ pitchwp
+msgid "Reset Password"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:17
+#@ pitchwp
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+#@ pitchwp
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:20
+#@ pitchwp
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:23
+#@ pitchwp
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:35
+#@ pitchwp
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:45
+#@ pitchwp
+msgid "Edit"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:64
+#@ pitchwp
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:26
+#@ pitchwp
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:32
+#@ pitchwp
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:33
+#: woocommerce/myaccount/my-orders.php:52
+#@ pitchwp
+msgid "Date"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:47
+#@ pitchwp
+msgid "Order Number"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:49
+#@ pitchwp
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:59
+#, php-format
+#@ pitchwp
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:81
+#@ pitchwp
+msgid "View"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:23
+#@ pitchwp
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:34
+#@ pitchwp
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:23
+#@ pitchwp
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:23
+#@ pitchwp
+msgid "N/A"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: woocommerce/single-product/meta.php:27
+#: templates/portfolio/parts/portfolio-categories.php:43
+#@ pitchwp
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:42
+#@ pitchwp
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:36
+#@ pitchwp
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:16
+#@ pitchwp
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:16
+#@ pitchwp
+msgid "Product Description"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:39
+#@ pitchwp
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:41
+#@ pitchwp
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:54
+#@ pitchwp
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:54
+#@ pitchwp
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:55
+#, php-format
+#@ pitchwp
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:59
+#@ pitchwp
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:70
+#@ pitchwp
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+#@ pitchwp
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:72
+#@ pitchwp
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+#@ pitchwp
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74
+#@ pitchwp
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+#@ pitchwp
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+#@ pitchwp
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+#@ pitchwp
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+#@ pitchwp
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/woocommerce_configuration.php:95
+#: woocommerce/woocommerce_configuration.php:106
+#@ pitchwp
+msgid "First name"
+msgstr ""
+
+#: woocommerce/woocommerce_configuration.php:96
+#: woocommerce/woocommerce_configuration.php:107
+#@ pitchwp
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/woocommerce_configuration.php:97
+#: woocommerce/woocommerce_configuration.php:108
+#@ pitchwp
+msgid "Company name"
+msgstr ""
+
+#: woocommerce/woocommerce_configuration.php:98
+#: woocommerce/woocommerce_configuration.php:109
+#@ pitchwp
+msgid "Address"
+msgstr ""
+
+#: woocommerce/woocommerce_configuration.php:100
+#@ pitchwp
+msgid "Phone"
+msgstr ""
+
+#: woocommerce/woocommerce_configuration.php:101
+#: woocommerce/woocommerce_configuration.php:110
+#@ pitchwp
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: woocommerce/woocommerce_configuration.php:253
+#@ pitchwp
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/woocommerce_configuration.php:254
+#@ pitchwp
+msgid "Search Products"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:3750
+#: includes/shortcodes/shortcodes.php:3846
+#: includes/shortcodes/shortcodes.php:4109
+#: includes/shortcodes/shortcodes.php:4607
+#: includes/shortcodes/shortcodes.php:8400
+#@ pitchwp
+msgid "in "
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:3759
+#: includes/shortcodes/shortcodes.php:3857
+#: includes/shortcodes/shortcodes.php:3995
+#: includes/shortcodes/shortcodes.php:4120
+#: includes/shortcodes/shortcodes.php:4229
+#: includes/shortcodes/shortcodes.php:4467
+#: includes/shortcodes/shortcodes.php:4618
+#@ pitchwp
+msgid "by"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:3768
+#: includes/shortcodes/shortcodes.php:3826
+#: includes/shortcodes/shortcodes.php:3964
+#: includes/shortcodes/shortcodes.php:4089
+#: includes/shortcodes/shortcodes.php:4201
+#: includes/shortcodes/shortcodes.php:4303
+#: includes/shortcodes/shortcodes.php:4485
+#: includes/shortcodes/shortcodes.php:4587
+#: includes/shortcodes/shortcodes.php:8678
+#: includes/shortcodes/shortcodes.php:8733
+#@ pitchwp
+msgid "No comment"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:6018
+#@ pitchwp
+msgid "Share"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:6170
+#@ pitchwp
+msgid "Share on Facebook"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:6186
+#@ pitchwp
+msgid "Share on Twitter"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:6198
+#@ pitchwp
+msgid "Share on Google+"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:6210
+#@ pitchwp
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:6222
+#@ pitchwp
+msgid "Share on Tumblr"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:6235
+#@ pitchwp
+msgid "Share on Pinterest"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:6248
+#@ pitchwp
+msgid "Share on VK"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:8396
+#@ pitchwp
+msgid "by "
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:8508
+#: includes/shortcodes/shortcodes.php:8774
+#@ pitchwp
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
